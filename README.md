@@ -52,6 +52,6 @@ This repository showcases my comprehensive learning journey through the Machine 
 
 
 ## Contact
-I'm always excited to connect with fellow data and machine learning enthusiasts, potential employers, and anyone interested in data analytics. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chintan-patel2251/).
+I'm always excited to connect with fellow data and machine learning enthusiasts, potential employers, and anyone interested in Data Science, Machine Learning and Artificial Intelligence. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chintan-patel2251/).
 
 Thank you for visiting my repository. I look forward to your feedback and the opportunity to contribute to impactful data projects!
